@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @faarihihsan
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning vuejs
